@@ -1,5 +1,4 @@
 from langchain_experimental.llms.ollama_functions import OllamaFunctions
-from langchain_core.messages import HumanMessage
 
 model = OllamaFunctions(
     model="llama3", 

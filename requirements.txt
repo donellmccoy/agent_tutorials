@@ -1,0 +1,63 @@
+# Requirements.txt
+
+# Data Science Packages
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+
+# # Data Processing Packages
+# openpyxl
+# xlrd
+# beautifulsoup4
+# requests
+# tensorflow
+# keras
+
+# # Natural Language Processing Packages
+# nltk
+# spacy
+# gensim
+
+# # Web Development Packages
+# flask
+# django
+# fastapi
+# requests
+# beautifulsoup4
+
+# # Database Packages
+# sqlalchemy
+# psycopg2
+# pymongo
+# redis
+
+# # Testing Packages
+# pytest
+# unittest
+
+# # Utility Packages
+# pyyaml
+# tqdm
+# click
+# python-dotenv
+
+# # Visualization Packages
+# seaborn
+# plotly
+# bokeh
+# altair
+# folium
+
+# # Machine Learning Packages
+# xgboost
+# lightgbm
+# catboost
+
+# # Deep Learning Packages
+# torch
+# torchvision
+# tensorflow
+# keras
+
